@@ -1,0 +1,40 @@
+body{
+	background-color: white;
+}
+
+.container{
+	background-color: #D6E0EC;
+	margin-top: 20px;
+	margin-bottom: 50px;
+	padding-bottom: 10px;
+	border-radius: 10px;
+}
+
+h2{
+	color: #E8A317;
+	padding-top: 20px;
+	font-size: 25px;
+    font-weight: 800;
+
+}
+
+h2 span{
+	color: #DD571C;
+}
+
+.btn{
+	box-shadow: none;
+	font-weight: 700;
+    height: 40px;
+    background-color: #FFE87C;
+    color: #555;
+    border-radius: 25px;
+    box-shadow: 3px 3px 3px #b1b1b1,
+        -3px -3px 3px #fff;
+    letter-spacing: 1.3px;
+}
+
+.btn:hover{
+	background-color: #FFDB58;
+	color: black;
+}
